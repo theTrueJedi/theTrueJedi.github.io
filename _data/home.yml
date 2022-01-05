@@ -21,12 +21,12 @@ project_entries:
 
   - title: Karby Kitchen
     url: https://karbykitchen.glideapp.io
-    image: /images/karby_kitchen.png
+    image: /images/karby_kitchen_sm.png
     desc: Tasty recipe browser, from our kitchen to your mouth.
 
   - title: Add to Cart
     url: addtocart
-    image: /images/addtocart.jpg
+    image: /images/addtocart_sm.png
     desc: These are a few of our favorite things.
 #    highlight: WIP
 
