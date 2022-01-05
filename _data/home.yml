@@ -25,7 +25,7 @@ project_entries:
     desc: Tasty recipe browser, from our kitchen to your mouth.
 
   - title: Add to Cart
-    url: overview-post
+    url: addtocart
     image: /images/addtocart.jpg
     desc: These are a few of our favorite things.
 #    highlight: WIP
