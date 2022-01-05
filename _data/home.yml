@@ -12,35 +12,23 @@ project_entries:
   - title: Lifesine Music
     url: https://lifesinemusic.com
     image: /images/lifesine_logo.png
-    desc: Visit my DJ Homepage
+    desc: Browse all my past DJ mixes and Livestream recordings.
 
   - title: Alina Pics
     url: http://alina.mrtiddles.com
     image: /images/aj.png
-    desc: Peek that cutie
+    desc: Cute baby pics. Because cute baby.
 
   - title: Karby Kitchen
     url: https://karbykitchen.glideapp.io
     image: /images/karby_kitchen.png
-    desc: Get fat
+    desc: Tasty recipe browser, from our kitchen to your mouth.
 
-  - title: Project 4
+  - title: Add to Cart
     url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
-    highlight: WIP
-
-  - title: Project 5
-    url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
-
-  - title: Project 6
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
-
-  - title: Project 7
-    url: overview-post
-    desc: A test to see if this will be added or not
+    image: /images/addtocart.jpg
+    desc: These are a few of our favorite things.
+#    highlight: WIP
 
 old_project_entries:
   - title: Soopr
