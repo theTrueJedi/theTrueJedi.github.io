@@ -81,7 +81,6 @@ html {
 // -------------- THEME SWITCHER -------------- //
 @mixin dark-appearance {
   html, body  {
-      --bg: #000;
       --headings: #74c0fc;
       --links: #91A7FF;
       --highlight: #41C7C7;

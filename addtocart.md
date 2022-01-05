@@ -3,7 +3,12 @@ layout: post
 title: Add to Cart
 ---
  
+<p align="center">
 The home for all those things we've ranted and raved about, big & small.
+</p>
+
+*Note: If decide to indulge in any of these fine items and purchase through the links provided, I may get a small commission, at no cost to you. Call it a finder's fee* 😉
+
 
 ## Baby Stuff
 
