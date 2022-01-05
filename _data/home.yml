@@ -16,11 +16,12 @@ project_entries:
 
   - title: Alina Pics
     url: http://alina.mrtiddles.com
+    image: /images/aj.png
     desc: Peek that cutie
 
   - title: Karby Kitchen
     url: https://karbykitchen.glideapp.io
-    image: /images/karby_kitchen_thumb.svg
+    image: /images/karby_kitchen.png
     desc: Get fat
 
   - title: Project 4
