@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Add to Cart
+title: Add to Cart 🛒
 ---
- 
+<br>
 <p align="center">
 The home for all those things we've ranted and raved about, big & small.
 </p>

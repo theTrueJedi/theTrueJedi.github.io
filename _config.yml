@@ -1,6 +1,6 @@
 title: Welcome to Planet Tiddles 🌎
 author: Mr. Tiddles
-url: https://thetruejedi.github.io
+url: https://mrtiddles.com
 description: > # description of the site (multiple lines allowed)
   Home for all things Mr. Tiddles
 permalink: /:slug.html
@@ -17,7 +17,7 @@ remote_theme: abhinavs/moonwalk
 theme_config:
   appearance: "dark" # can be "light", "dark" or "auto"
   appearance_toggle: true # if appearance can be switched by user
-  back_home_text: "MrTiddles.com" # customize text for homepage link in post layout
+  back_home_text: "mrtiddles.com" # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted
   show_description: false # show blog description
   show_navbar: false # show horizontal navbar
