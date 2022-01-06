@@ -6,10 +6,10 @@ html { height: 100%; }
 body {
   font-family:  "Inter", -apple-system, "avenir next", avenir, roboto, noto, ubuntu, "helvetica neue", helvetica, sans-serif;
   font-size: 1.0rem;
-  line-height: 1.4;
   margin: 0;
   padding-bottom: 5px;
   min-height: 100%;
+  overflow:hidden
 }
 pre, code {
   font-family: "Anonymous Pro", "Courier New", monospace;
@@ -20,6 +20,14 @@ h1, h2, h3, h4, h5 {
   font-family:  "Montserrat";
   padding-bottom: 5px;
   margin-top: 1.5em; 
+}
+
+h4, h5 {
+  font-family: "Inter";
+  margin: 0;
+  padding: 0;
+  line-height: 0px;
+  color: var(--headings2);
 }
 
 hr { margin: 1em 0; }
@@ -72,6 +80,7 @@ html {
     --bg: #FFF;
     --bg-secondary: #f8f8f8;
     --headings: #4162BB;
+    --headings2: #2e4482;
     --text: #333;
     --links: blue;
     --highlight: #FFECB2; // light yellow
@@ -82,11 +91,12 @@ html {
 @mixin dark-appearance {
   html, body  {
       --headings: #74c0fc;
+      --headings2: #e1edf7;
       --links: #91A7FF;
       --highlight: #41C7C7;
       --bg: #1f242A;
       --bg-secondary: #323945;
-      --text: #adb5bd;
+      --text: #c0c9d1;
       --code-text: #91A7FF;
       --share-text: #C4C4C4;
   };
@@ -104,6 +114,10 @@ html, body {
 }
 h1, h2, h3, h4, h5, h6 {
     color: var(--headings);
+}
+
+h4, h5 {
+    color: var(--headings2);
 }
 p, strong, b, em, small, li, hr, table, figcaption {
     color: var(--text);

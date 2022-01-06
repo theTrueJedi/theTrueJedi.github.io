@@ -28,7 +28,7 @@ project_entries:
     url: addtocart
     image: /images/addtocart_sm.png
     desc: These are a few of our favorite things.
-#    highlight: WIP
+    highlight: WIP
 
 old_project_entries:
   - title: Soopr
