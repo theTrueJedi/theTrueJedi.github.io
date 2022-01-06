@@ -12,57 +12,11 @@ The home for all those things we've ranted and raved about, big & small.
 
 
 ## What kinda stuff you need?
-1. [Baby Stuff](#baby)
-2. [Kitchen Stuff](#kitchen)
+1. [Kitchen Stuff](#kitchen)
     - [Coffee Corner](#coffee) ☕️
-3. [Travel Stuff](#travel)
-
-<br>
-<hr>
-
-## Baby Stuff <a name="baby"></a>
-
-#### Munchkin Lulla-Vibe Paddle
-For anyone who didn't splurge for the SNOO (or just wants a to-go version), this little battery-operated wonder will help lull your little one to sleep. 
-<script type="text/javascript">
-amzn_assoc_tracking_id = "vikariousshop-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_design = "enhanced_links";
-amzn_assoc_asins = "B009UPUFCY";
-amzn_assoc_placement = "adunit";
-amzn_assoc_linkid = "8c68b4a3027abbabe3c8e4a5b0efabb9";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
- 
-#### Philips Avent Ultra Air Pacifier (and Soothies)
-We found that of all the pacifiers we tried, these stayed in baby's mouth the best, making for much fewer "jump out of bed to replace the paci" moments throughout the night. A huge win for you and baby both. Note that for the first couple weeks, we preferred the Soothies, which let you stick your finger into them to hold in while baby is getting used to pacifiers in general. We transitioned off the Soothies around 6 or 8 weeks.
-<script type="text/javascript">
-amzn_assoc_tracking_id = "vikariousshop-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_design = "enhanced_links";
-amzn_assoc_asins = "B07T9GFQ6S";
-amzn_assoc_placement = "adunit";
-amzn_assoc_linkid = "2a3fbf8468ffaafbef1007a40599c7df";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
-<script type="text/javascript">
-amzn_assoc_tracking_id = "vikariousshop-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_design = "enhanced_links";
-amzn_assoc_asins = "B07T9GCR7X";
-amzn_assoc_placement = "adunit";
-amzn_assoc_linkid = "cfb7cd8feb4e8795105c43861ca48f33";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+2. [Baby Stuff](#baby)
+3. [Electronic Stuff](#electronics)
+4. [Travel Stuff](#travel)
 
 <br>
 <hr>
@@ -157,7 +111,61 @@ amzn_assoc_linkid = "fb935b60357075b6808c69c5c2ce3112";
  
 <br>
 <hr>
+## Baby Stuff <a name="baby"></a>
 
-## Travel <a name="travel"></a>
+#### Munchkin Lulla-Vibe Paddle
+For anyone who didn't splurge for the SNOO (or just wants a to-go version), this little battery-operated wonder will help lull your little one to sleep. 
+<script type="text/javascript">
+amzn_assoc_tracking_id = "vikariousshop-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_design = "enhanced_links";
+amzn_assoc_asins = "B009UPUFCY";
+amzn_assoc_placement = "adunit";
+amzn_assoc_linkid = "8c68b4a3027abbabe3c8e4a5b0efabb9";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+ 
+#### Philips Avent Pacifiers
+**Newborn (0-2 months):** [Soothies](https://amzn.to/3FZzGz1)  
+**Infant (2+ months):** [Ultra Air](https://amzn.to/338x42X)  
+We found that of all the pacifiers we tried, the **Ultra Air stay in baby's mouth the best**, making for much fewer "jump out of bed to replace the paci" moments throughout the night. A huge win for you and baby both. Note that **for the first several weeks, we preferred the Soothies**, which are recommended while baby is getting used to pacifiers in general, and let you stick your finger into them to hold them in nicely. We transitioned off the Soothies around 6 or 8 weeks and played much less of the game we call "Pacifier Hostage" after that.
+<script type="text/javascript">
+amzn_assoc_tracking_id = "vikariousshop-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_design = "enhanced_links";
+amzn_assoc_asins = "B07T9GFQ6S";
+amzn_assoc_placement = "adunit";
+amzn_assoc_linkid = "2a3fbf8468ffaafbef1007a40599c7df";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+<script type="text/javascript">
+amzn_assoc_tracking_id = "vikariousshop-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_design = "enhanced_links";
+amzn_assoc_asins = "B07T9GCR7X";
+amzn_assoc_placement = "adunit";
+amzn_assoc_linkid = "cfb7cd8feb4e8795105c43861ca48f33";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
-- **Packing Cubes**
+<br>
+<hr>
+
+## Electronic Stuff <a name="electronics"></a>
+
+<br>
+<hr>
+
+## Travel Stuff <a name="travel"></a>
+
+
+<br>

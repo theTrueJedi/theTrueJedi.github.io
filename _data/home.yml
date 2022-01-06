@@ -12,7 +12,7 @@ project_entries:
   - title: Lifesine Music
     url: https://lifesinemusic.com
     image: /images/lifesine_logo.png
-    desc: Explore & stream my back catalog of DJ mixes and Livestream recordings.
+    desc: Stream my full catalog of DJ mixes and Livestream recordings.
 
   - title: Alina Pics
     url: http://alina.mrtiddles.com
@@ -28,7 +28,7 @@ project_entries:
     url: addtocart
     image: /images/addtocart_sm.png
     desc: These are a few of our favorite things.
-    highlight: WIP
+    highlight: SHOP
 
 old_project_entries:
   - title: Soopr
